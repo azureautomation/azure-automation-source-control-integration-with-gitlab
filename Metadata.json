@@ -1,0 +1,20 @@
+{
+    "Author": "John Seerden",
+    "ContentSize": 9513,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-source-control-integration-with-gitlab/master/Sync-GitLab.ps1",
+    "DownloadCount": 795,
+    "Id": "Azure-Automation-source-e377edf1",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 237,
+    "RaterCount": 3,
+    "Rating": 4.7,
+    "ReleaseDate": "2018-8-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook synchronises runbooks from GitLab source control.It requires a webhook to be set up in GitLab to trigger this runbook when changes are made.This enables continuous integration with GitLab source control and an automation account. Change",
+    "Title": "Azure Automation source control integration with GitLab",
+    "UpdatedDate": "2018-8-16T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-source-control-integration-with-gitlab",
+    "UserTags": "Azure Automation, Continuous Integration, GitLab"
+}
